@@ -126,6 +126,10 @@ a.sidebar-nav-item:focus {
   padding-bottom: 4rem;
 }
 
+.content a {
+  text-decoration: underline;
+}
+
 @media (min-width: 48em) {
   .content {
     max-width: 38rem;
@@ -247,4 +251,13 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
+}
+
+/* Starship Colours */
+.starship .sidebar {
+  background-color: #183b66
+}
+.starship .content a,
+.starship .related-posts li a:hover {
+  color: #183b66;
 }
