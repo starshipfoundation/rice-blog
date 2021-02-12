@@ -29,7 +29,8 @@ url: "https://starshipfoundation.github.io" # the base hostname & protocol for y
 twitter_username: captainstarship
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: poole/hyde
 plugins:
   - jekyll-feed
 
