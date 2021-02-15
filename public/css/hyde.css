@@ -70,6 +70,18 @@ html {
   }
 }
 
+/* Sidebar image */
+.sidebar img {
+  margin: 0.5rem auto;
+  text-align: center;
+}
+@media (min-width: 48em) {
+  .sidebar img {
+    margin: 0.5rem 0;
+    text-align: left;
+  }
+}
+
 /* Sidebar links */
 .sidebar a {
   color: #fff;
@@ -79,7 +91,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
+  font-family: Georgia, serif;
   font-size: 3.25rem;
 }
 
