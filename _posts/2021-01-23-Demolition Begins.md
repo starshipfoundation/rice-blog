@@ -7,3 +7,9 @@ title: "Demolition Begins"
 Please, join the Starship Foundation as we continue to provide brighter futures for our most critically ill children.
 
 Go to starship dot org *dot NZ and donate now.*
+
+![wires from ceiling](https://raw.githubusercontent.com/starshipfoundation/rice-blog/main/public/img/Home%20for%20Christmas_Logo-03.png)
+
+![edm banner](https://raw.githubusercontent.com/starshipfoundation/rice-blog/main/public/img/EDM%20Banner%201.png)
+
+
